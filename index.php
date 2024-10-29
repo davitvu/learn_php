@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang PHP Đơn Giản</title>
+    <title>hi</title>
 </head>
 <body>
     <h1>Chào mừng đến với trang PHP của tôi!</h1>
