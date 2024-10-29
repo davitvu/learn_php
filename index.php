@@ -11,6 +11,12 @@
         echo "<p>Đây là đoạn văn bản được tạo bởi PHP.</p>";
         
         echo "<p>Thời gian hiện tại là: " . date("H:i:s d-m-Y") . "</p>";
+
+        $a = 1;
+        $b = 2;
+
+        if($a == 1) echo "<p>giong 1</p>";
+        if($b != 1) echo "<p>khac 1</p>";
     ?>
 </body>
 </html>
