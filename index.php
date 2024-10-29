@@ -14,9 +14,14 @@
 
         $a = 1;
         $b = 2;
+        $c = 6;
 
         if($a == 1) echo "<p>giong 1</p>";
         if($b != 1) echo "<p>khac 1</p>";
+        
+        if($c == 3) echo "<p>giong $c</p>";
+        elseif($c == $b) echo "<p>khac $c = $b</p>";
+        else echo "<p>khong giong cai nao</p>";
     ?>
 </body>
 </html>
